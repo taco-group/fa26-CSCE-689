@@ -1,14 +1,14 @@
-# CSCE 689: Special Topics in Generative Artificial Intelligence
+# CSCE 689: Generative AI for Computer Vision
 
 **Texas A&M University · Fall 2026 · Section 603**
 
 | | |
 |---|---|
 | **Course Number** | CSCE 689 |
-| **Title** | Special Topics in Generative Artificial Intelligence |
+| **Title** | Generative AI for Computer Vision |
 | **Section** | 603 |
-| **Time** | TR 3:55 PM – 5:15 PM |
-| **Location** | HRBB 113 |
+| **Time** | MW 4:10 PM – 5:25 PM |
+| **Location** | ZACH 310 |
 | **Credit Hours** | 3 |
 | **Prerequisites** | Graduate classification |
 
