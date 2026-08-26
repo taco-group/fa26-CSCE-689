@@ -1,0 +1,9 @@
+# Course materials / source documents — not published to the repo
+asset/
+assets/
+
+# macOS
+.DS_Store
+
+# Microsoft Office lock files
+~$*
